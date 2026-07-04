@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# generated data (kept out of git; regenerate with `make data` / `make run`)
+data/*
+!data/.gitkeep
+
+# benchmark run artifacts are regenerated; keep the committed reference CSVs only
+benchmarks/scale_results.csv
