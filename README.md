@@ -70,9 +70,9 @@ Headline (from the committed run):
 > negatives** fixed it and the ranker now genuinely lifts nDCG. Both are classic
 > two-tower/two-stage failure modes — see `ARCHITECTURE.md`.
 
-## Project Brief
+## Project Document
 
-- Visual PDF brief: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
+- Research report: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
 
 ## Screenshots
 
